@@ -10,9 +10,9 @@ Currently, two official plugins are available:
 <h1>3D portfolio Website </h1>
 
 <h2>Features</h2>
--<p>3D Graphics: Utilizes Three.js to create interactive 3D elements and animations.</p>
--<p>React Framework: Developed using React for efficient and modular code.</p>
--<p>Email Integration: Integrated with Email.js to handle email communications directly from the website.</p>
+<p>3D Graphics: Utilizes Three.js to create interactive 3D elements and animations.</p>
+<p>React Framework: Developed using React for efficient and modular code.</p>
+<p>Email Integration: Integrated with Email.js to handle email communications directly from the website.</p>
 
 <h2>Technologies Used</h2>
 <p>React: A JavaScript library for building user interfaces.</p>
@@ -20,11 +20,11 @@ Currently, two official plugins are available:
 <p>Email.js: A library to send emails using client-side technologies only.</p>
 
 <h2>Installation</h2>
-Clone the repository
-Navigate to the project directory
-Install the dependencies
-Start the development server:
+<p>Clone the repository</p>
+<p>Navigate to the project directory</p>
+<p>Install the dependencies</p>
+<p>Start the development server</p>
 
 <h2>Usage</h2>
-Visit http://localhost:3000 in your browser to see the 3D portfolio website in action.
-Use the contact form to send emails directly from the website.
+<p>Visit http://localhost:3000 in your browser to see the 3D portfolio website in action.</p>
+<p>Use the contact form to send emails directly from the website.</p>
